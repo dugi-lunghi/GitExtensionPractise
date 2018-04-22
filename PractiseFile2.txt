@@ -2,3 +2,4 @@ Test line 2.
 Dugi changed.
 Milos changed one more time again.
 Milos changed.
+Dugic Milos
