@@ -4,5 +4,7 @@ Dugi commit.
 Milos commit.
 My first commit on branchDugi3.
 
+My third branch Dugi.
 My third branch.
+Amend message.
 My third branch once again!
