@@ -1,2 +1,2 @@
 My first commit.
-Dugi commit on hub.
+Dugi commit.
